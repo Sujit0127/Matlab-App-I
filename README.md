@@ -1,5 +1,5 @@
 # Application
-This MATLAB application provides a user interface for extracting and plotting data from raw files and executing external programs. It includes functionality for selecting raw data files, executing .exe files, plotting data, and managing file paths. Developed by Sujit from RSD, the application is designed to streamline data extraction and visualization tasks.
+This MATLAB application provides a user interface for extracting and plotting data from raw files and executing external programs. It includes functionality for selecting raw data files, executing .exe files, plotting data, and managing file paths. 
 
 # Features:
 Select Raw File: Choose and load raw .txt files for processing.
